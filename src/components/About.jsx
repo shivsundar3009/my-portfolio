@@ -1,5 +1,5 @@
 import React from 'react'
-import profile2 from "../../public/assets/profilePics/profile2.png"
+import profile2 from "assets/profilePics/profile2.png"
 function About() {
     return (
         <section id='about' className="bg-white dark:bg-gray-900 py-16">

@@ -3,13 +3,13 @@ import { ReactTyped } from 'react-typed';
 
 // import { github1, linkdin, twitter, profile1 } from '../assets/index';
 
-import github1 from "../../public/assets/HeroSectionIcons/github1.png";
+import github1 from "assets/HeroSectionIcons/github1.png";
 
-import twitter from "../../public/assets/HeroSectionIcons/twitter.png";
+import twitter from "assets/HeroSectionIcons/twitter.png";
 
-import linkdin from "../../public/assets/HeroSectionIcons/linkdin.png";
+import linkdin from "assets/HeroSectionIcons/linkdin.png";
 
-import profile1 from "../../public/assets/profilePics/profile1.png";
+import profile1 from "assets/profilePics/profile1.png";
 
 
 function Hero() {
