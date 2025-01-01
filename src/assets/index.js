@@ -25,7 +25,7 @@ export { bootstrap, CSS, HTML, javascript , github , mongoDB , mySQL ,nodeJs , p
 
 
 import chatApp from "./projectPics/chatApp.png";
-import jobPortal from "./projectPics/job-Portal.png";
+import jobPortal from "./projectPics/jobPortal.png";
 import fakeStoreApi from "./projectPics/fakeStoreApi.png";
 import currencyConverter from "./projectPics/currencyConverter.png";
 

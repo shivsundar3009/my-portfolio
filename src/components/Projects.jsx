@@ -8,8 +8,8 @@ const projects = [
     image: chatApp,
     // Video URL for hover functionality - Add hover feature later
     video: "https://path-to-your-chat-app-demo-video.mp4",
-    github: "https://github.com/yourusername/chat-app", // Replace with your GitHub link
-    live: "https://your-live-chat-app.com", // Replace with your live demo link
+    github: "https://github.com/shivsundar3009/chat-app", // Replace with your GitHub link
+    live: "https://chat-app-60lc.onrender.com", // Replace with your live demo link
     techStack: ["React", "Node.js", "MongoDB", "Socket.IO"], // Add actual tech stack
     description: "A real-time chat application with user authentication, message history, and Socket.IO integration.",
   },
