@@ -1,6 +1,15 @@
 import React from 'react';
-import { github1, linkdin, twitter, profile1 } from '../assets/index';
 import { ReactTyped } from 'react-typed';
+
+// import { github1, linkdin, twitter, profile1 } from '../assets/index';
+
+import github1 from "../assets/HeroSectionIcons/github1.png";
+
+import twitter from "../assets/HeroSectionIcons/twitter.png";
+
+import linkdin from "../assets/HeroSectionIcons/linkdin.png";
+
+import profile1 from "../assets/profilePics/profile1.png";
 
 
 function Hero() {
@@ -56,13 +65,13 @@ function Hero() {
                   className="w-12 md:w-14 shadow-lg shadow-gray-300/40  hover:scale-110 transition"
                 />
               </button>
-              {/* <button onClick={() => window.open('https://x.com/', '_blank')}>
+              <button onClick={() => window.open('https://x.com/', '_blank')}>
                 <img
                   src={twitter}
                   alt="twitter-link"
                   className="w-12 md:w-14 shadow-lg shadow-gray-300/40  hover:scale-110 transition"
                 />
-              </button> */}
+              </button>
             </div>
           </div>
         </div>
