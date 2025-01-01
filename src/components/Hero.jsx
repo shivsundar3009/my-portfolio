@@ -1,5 +1,5 @@
 import React from 'react';
-import { github1, linkdin, twitter, profile1 } from '../assets';
+import { github1, linkdin, twitter, profile1 } from '../assets/index';
 import { ReactTyped } from 'react-typed';
 
 

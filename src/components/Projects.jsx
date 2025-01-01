@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { chatApp, currencyConverter, fakeStoreApi, jobPortal } from '../assets';
+import { chatApp, currencyConverter, fakeStoreApi, jobPortal } from '../assets/index';
 
 const projects = [
   {

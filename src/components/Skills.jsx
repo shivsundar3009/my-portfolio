@@ -1,5 +1,5 @@
 import React from 'react';
-import { bootstrap, CSS, github, HTML, javascript, mongoDB, mySQL, nodeJs, postman, react, RTK } from '../assets';
+import { bootstrap, CSS, github, HTML, javascript, mongoDB, mySQL, nodeJs, postman, react, RTK } from '../assets/index';
 
 function Skills() {
   const skills = [
