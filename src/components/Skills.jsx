@@ -4,27 +4,27 @@ import React from 'react';
 
 // import bootstrap from "../assets/skillPics/bootstrap.png";
 
-import bootstrap from "/assets/skillPics/bootstrap.png";
+const bootstrap = "/assets/skillPics/bootstrap.png";
 
-import CSS from "/assets/skillPics/CSS.png";
+const CSS = "/assets/skillPics/CSS.png";
 
-import HTML from "/assets/skillPics/HTML.png";
+const HTML = "/assets/skillPics/HTML.png";
 
-import javascript from "/assets/skillPics/javascript.png";
+const javascript = "/assets/skillPics/javascript.png";
 
-import react from "/assets/skillPics/react.png";
+const react = "/assets/skillPics/react.png";
 
-import RTK from "/assets/skillPics/RTK.png";
+const RTK = "/assets/skillPics/RTK.png";
 
-import nodeJs from "/assets/skillPics/nodeJs.png";
+const nodeJs = "/assets/skillPics/nodeJs.png";
 
-import mongoDB from "/assets/skillPics/mongoDB.png";
+const mongoDB = "/assets/skillPics/mongoDB.png";
 
-import mySQL from "/assets/skillPics/mySQL.png";
+const mySQL = "/assets/skillPics/mySQL.png";
 
-import github from "/assets/skillPics/github.png";
+const github = "/assets/skillPics/github.png";
 
-import postman from "/assets/skillPics/postman.png";
+const postman = "/assets/skillPics/postman.png";
 
 
 // import bootstrap from "../assets/skillPics/bootstrap.png";

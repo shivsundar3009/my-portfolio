@@ -2,13 +2,13 @@ import React from 'react';
 
 // import { chatApp, currencyConverter, fakeStoreApi, jobPortal } from '../assets/index';\
 
-import jobPortal from "/assets/projectPics/jobPortal.png";
+const jobPortal = "/assets/projectPics/jobPortal.png";
 
-import currencyConverter from "/assets/projectPics/currencyConverter.png";
+const currencyConverter = "/assets/projectPics/currencyConverter.png";
 
-import chatApp from "/assets/projectPics/chatApp.png";
+const chatApp = "/assets/projectPics/chatApp.png";
 
-import fakeStoreApi from "/assets/projectPics/fakeStoreApi.png";
+const fakeStoreApi = "/assets/projectPics/fakeStoreApi.png";
 
 
 
