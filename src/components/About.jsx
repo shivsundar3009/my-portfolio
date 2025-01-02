@@ -1,5 +1,5 @@
 import React from 'react'
-const profile2 = "/assets/profilePics/profile2.png"
+const profile2 = "https://res.cloudinary.com/shivsundar/image/upload/v1735752059/Portfolio/profilePics/viswqnwpn03ggus7q2xk.png"
 function About() {
     return (
         <section id='about' className="bg-white dark:bg-gray-900 py-16">

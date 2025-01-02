@@ -4,27 +4,27 @@ import React from 'react';
 
 // import bootstrap from "../assets/skillPics/bootstrap.png";
 
-const bootstrap = "/assets/skillPics/bootstrap.png";
+const bootstrap = "https://res.cloudinary.com/shivsundar/image/upload/v1735755459/Portfolio/skillsPics/kdbosyygtk4ybcajv8lp.png";
 
-const CSS = "/assets/skillPics/CSS.png";
+const CSS = "https://res.cloudinary.com/shivsundar/image/upload/v1735755458/Portfolio/skillsPics/e1htrr98joz9j600ipey.png";
 
-const HTML = "/assets/skillPics/HTML.png";
+const HTML = "https://res.cloudinary.com/shivsundar/image/upload/v1735755458/Portfolio/skillsPics/mgopevva6zolvp5perd9.png";
 
-const javascript = "/assets/skillPics/javascript.png";
+const javascript = "https://res.cloudinary.com/shivsundar/image/upload/v1735755459/Portfolio/skillsPics/sx7aczf7iqufauangbwu.png";
 
-const react = "/assets/skillPics/react.png";
+const react = "https://res.cloudinary.com/shivsundar/image/upload/v1735755459/Portfolio/skillsPics/crz37qgbvek84ucr9un7.png";
 
-const RTK = "/assets/skillPics/RTK.png";
+const RTK = "https://res.cloudinary.com/shivsundar/image/upload/v1735755459/Portfolio/skillsPics/hjlrg35fyuko56afwgil.png";
 
-const nodeJs = "/assets/skillPics/nodeJs.png";
+const nodeJs = "https://res.cloudinary.com/shivsundar/image/upload/v1735755459/Portfolio/skillsPics/qesazcold3ncmgoxzdxf.png";
 
-const mongoDB = "/assets/skillPics/mongoDB.png";
+const mongoDB = "https://res.cloudinary.com/shivsundar/image/upload/v1735755459/Portfolio/skillsPics/xxzc1tyyhad7rfhn4wac.png";
 
-const mySQL = "/assets/skillPics/mySQL.png";
+const mySQL = "https://res.cloudinary.com/shivsundar/image/upload/v1735755459/Portfolio/skillsPics/zqms1o57dven8cipvfph.png";
 
-const github = "/assets/skillPics/github.png";
+const github = "https://res.cloudinary.com/shivsundar/image/upload/v1735755458/Portfolio/skillsPics/phusbzqdqywhk60vf977.png";
 
-const postman = "/assets/skillPics/postman.png";
+const postman = "https://res.cloudinary.com/shivsundar/image/upload/v1735755459/Portfolio/skillsPics/rqql651nmqfu6rlfgfg2.png";
 
 
 // import bootstrap from "../assets/skillPics/bootstrap.png";

@@ -3,13 +3,13 @@ import { ReactTyped } from 'react-typed';
 
 // import { github1, linkdin, twitter, profile1 } from '../assets/index';
 
-const github1 = "/assets/HeroSectionIcons/github1.png";
+const github1 = "https://res.cloudinary.com/shivsundar/image/upload/v1735755566/Portfolio/heroSectionIcons/lhxmecadsztvtbvhd5ac.png";
 
-const twitter = "/assets/HeroSectionIcons/twitter.png";
+const twitter = "https://res.cloudinary.com/shivsundar/image/upload/v1735755567/Portfolio/heroSectionIcons/wqdcfrhwxsagd7mfiji2.png";
 
-const linkdin = "/assets/HeroSectionIcons/linkdin.png";
+const linkdin = "https://res.cloudinary.com/shivsundar/image/upload/v1735755567/Portfolio/heroSectionIcons/x5l9akx9au3sjl5alf4p.png";
 
-const profile1 = "/assets/profilePics/profile1.png";
+const profile1 = "https://res.cloudinary.com/shivsundar/image/upload/v1735752059/Portfolio/profilePics/kg4jvh2pacm8frooq5iy.png";
 
 
 function Hero() {
@@ -41,7 +41,7 @@ function Hero() {
             <div>
 
             <a
-             href=''
+             href='https://drive.google.com/file/d/1195qOY2e6y4ccS_x10ZSuZ6g6a2pUeY-/view?usp=drive_link' target='_blank'
               className="text-lg md:text-xl bg-zinc-900 text-white py-3 px-6 rounded-xl ring-4 ring-purple-700/50 font-bold hover:shadow-lg hover:shadow-slate-800 hover:bg-slate-900 transition">
               📄
               <span className="bg-gradient-to-r from-[#FEAC5E] via-[#C779D0] to-[#4BC0C8] bg-clip-text text-transparent">
@@ -65,7 +65,7 @@ function Hero() {
                   className="w-12 md:w-14 shadow-lg shadow-gray-300/40  hover:scale-110 transition"
                 />
               </button>
-              <button onClick={() => window.open('https://x.com/', '_blank')}>
+              <button onClick={() => window.open('https://x.com/shivsundar3009', '_blank')}>
                 <img
                   src={twitter}
                   alt="twitter-link"
