@@ -41,7 +41,7 @@ function Hero() {
             <div>
 
             <a
-             href='https://drive.google.com/file/d/1195qOY2e6y4ccS_x10ZSuZ6g6a2pUeY-/view?usp=drive_link' target='_blank'
+             href='https://drive.google.com/file/d/1Bat_TZM3fdrYlUDI0qLE0gwFFIQtK4DU/view?usp=drive_link' target='_blank'
               className="text-lg md:text-xl bg-zinc-900 text-white py-3 px-6 rounded-xl ring-4 ring-purple-700/50 font-bold hover:shadow-lg hover:shadow-slate-800 hover:bg-slate-900 transition">
               📄
               <span className="bg-gradient-to-r from-[#FEAC5E] via-[#C779D0] to-[#4BC0C8] bg-clip-text text-transparent">
