@@ -2,7 +2,7 @@ import React from 'react';
 
 // import { chatApp, currencyConverter, fakeStoreApi, jobPortal } from '../assets/index';\
 
-const jobPortal = "https://res.cloudinary.com/shivsundar/image/upload/v1735755591/Portfolio/projectPics/vglcrkpxysmzs3dqywvs.png";
+const jobPortal = "https://res.cloudinary.com/shivsundar/image/upload/v1736506202/Portfolio/projectPics/ulnhngtxwibvic4gvdtq.png";
 
 const currencyConverter = "https://res.cloudinary.com/shivsundar/image/upload/v1735755593/Portfolio/projectPics/yhehltitl0uxqmhmywim.png";
 
@@ -49,7 +49,7 @@ const projects = [
     // Video URL for hover functionality - Add hover feature later
     video: "https://path-to-your-job-portal-demo-video.mp4",
     github: "https://github.com/shivsundar3009/job-portal-mern", // Replace with your GitHub link
-    // live: "https://your-live-job-portal.com", // Replace with your live demo link
+    live: "https://job-portal-mern-xi.vercel.app/", // Replace with your live demo link
     techStack: ["React", "Node.js", "MongoDB", "Express.js"], // Add actual tech stack
     description: "A job portal for users to search and apply for jobs, with features like user authentication and job management.",
   },
